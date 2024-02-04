@@ -18,5 +18,5 @@ For the email the name is: membersEmail
 
 For the password the name is: membersPwd
 
-Now you download the folder and place it inside the folder ( xampp -> htpdocs) Open your web browser and navigate to http://localhost/LogInForm-main/index.php.
+Now you download the folder and place it inside the folder ( xampp -> htpdocs) Open your web browser and navigate to http://localhost/LogInSystem-main/index.php.
 
